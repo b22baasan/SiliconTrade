@@ -1,0 +1,703 @@
+"","Reporter","ReporterISO","Partner","PartnerISO","Year","ttl_val"
+"1","Albania","ALB","World","WLD",2017,2301340965
+"2","Algeria","DZA","World","WLD",2017,35191117416
+"3","Andorra","AND","World","WLD",2017,117965611
+"4","Australia","AUS","World","WLD",2017,230536736593
+"5","Austria","AUT","World","WLD",2017,159970530802
+"6","Bahrain","BHR","World","WLD",2017,12485359226
+"7","Armenia","ARM","World","WLD",2017,2144962969
+"8","Belgium","BEL","World","WLD",2017,296556522030
+"9","Bermuda","BMU","World","WLD",2017,11742165
+"10","Bolivia (Plurinational State of)","BOL","World","WLD",2017,8367078520
+"11","Bosnia Herzegovina","BIH","World","WLD",2017,6367922271
+"12","Brazil","BRA","World","WLD",2017,214988108353
+"13","Brunei Darussalam","BRN","World","WLD",2017,5570575213
+"14","Bulgaria","BGR","World","WLD",2017,31588418276
+"15","Myanmar","MMR","World","WLD",2017,13878764485
+"16","Belarus","BLR","World","WLD",2017,29239993900
+"17","Cambodia","KHM","World","WLD",2017,11278127964
+"18","Canada","CAN","World","WLD",2017,420074382189
+"19","Sri Lanka","LKA","World","WLD",2017,11741036786
+"20","Chile","CHL","World","WLD",2017,68858401595
+"21","China","CHN","World","WLD",2017,2263370504301
+"22","Colombia","COL","World","WLD",2017,37766321060
+"23","Costa Rica","CRI","World","WLD",2017,11296640428
+"24","Croatia","HRV","World","WLD",2017,15732485216
+"25","Cyprus","CYP","World","WLD",2017,3360808639
+"26","Czechia","CZE","World","WLD",2017,182231360523
+"27","Denmark","DNK","World","WLD",2017,101434430887
+"28","Dominican Rep.","DOM","World","WLD",2017,10224658400
+"29","Ecuador","ECU","World","WLD",2017,19092352242
+"30","El Salvador","SLV","World","WLD",2017,5760015207
+"31","Estonia","EST","World","WLD",2017,15387735462
+"32","Fiji","FJI","World","WLD",2017,1036149194
+"33","Finland","FIN","World","WLD",2017,67280640848
+"34","France","FRA","World","WLD",2017,523385133284
+"35","Georgia","GEO","World","WLD",2017,2745736005
+"36","Germany","DEU","World","WLD",2017,1446642435221
+"37","Greece","GRC","World","WLD",2017,32154816405
+"38","Greenland","GRL","World","WLD",2017,595837190
+"39","Guatemala","GTM","World","WLD",2017,11011391397
+"40","Honduras","HND","World","WLD",2017,4970144395
+"41","China, Hong Kong SAR","HKG","World","WLD",2017,549861455213
+"42","Hungary","HUN","World","WLD",2017,113382077421
+"43","Iceland","ISL","World","WLD",2017,4882605885
+"44","Indonesia","IDN","World","WLD",2017,168810042930
+"45","Iran","IRN","World","WLD",2017,105844085748
+"46","Ireland","IRL","World","WLD",2017,138072213252
+"47","Israel","ISR","World","WLD",2017,61150141000
+"48","Italy","ITA","World","WLD",2017,507430236336
+"49","Japan","JPN","World","WLD",2017,698131223694
+"50","Kazakhstan","KAZ","World","WLD",2017,48502738958
+"51","Jordan","JOR","World","WLD",2017,7469238450
+"52","Rep. of Korea","KOR","World","WLD",2017,573627368937
+"53","Kuwait","KWT","World","WLD",2017,54991871282
+"54","Kyrgyzstan","KGZ","World","WLD",2017,1757463670
+"55","Lao People's Dem. Rep.","LAO","World","WLD",2017,4909733654
+"56","Lebanon","LBN","World","WLD",2017,2844446138
+"57","Lesotho","LSO","World","WLD",2017,673150837
+"58","Latvia","LVA","World","WLD",2017,13189947231
+"59","Lithuania","LTU","World","WLD",2017,29349549370
+"60","Luxembourg","LUX","World","WLD",2017,11517510520
+"61","Madagascar","MDG","World","WLD",2017,2851663745
+"62","Malaysia","MYS","World","WLD",2017,217722507482
+"63","Maldives","MDV","World","WLD",2017,199345279
+"64","Malta","MLT","World","WLD",2017,4077731851
+"65","Mauritius","MUS","World","WLD",2017,2102621814
+"66","Other Asia, nes",NA,"World","WLD",2017,317663172110
+"67","Mongolia","MNG","World","WLD",2017,6200592951
+"68","Montenegro","MNE","World","WLD",2017,420870887
+"69","Morocco","MAR","World","WLD",2017,25624297849
+"70","Oman","OMN","World","WLD",2017,32904047205
+"71","Namibia","NAM","World","WLD",2017,5229360925
+"72","Netherlands","NLD","World","WLD",2017,527907822349
+"73","New Zealand","NZL","World","WLD",2017,38050286199
+"74","Nicaragua","NIC","World","WLD",2017,4925581177
+"75","Norway","NOR","World","WLD",2017,101976020159
+"76","Pakistan","PAK","World","WLD",2017,21877787164
+"77","Panama","PAN","World","WLD",2017,10600819757
+"78","Paraguay","PRY","World","WLD",2017,8679833045
+"79","Peru","PER","World","WLD",2017,44237949422
+"80","Poland","POL","World","WLD",2017,221307621302
+"81","Portugal","PRT","World","WLD",2017,62116840516
+"82","Romania","ROU","World","WLD",2017,70626887499
+"83","Russian Federation","RUS","World","WLD",2017,379206606018
+"84","Serbia","SRB","World","WLD",2017,16959040119
+"85","India","IND","World","WLD",2017,294364490162
+"86","Slovakia","SVK","World","WLD",2017,83475386333
+"87","Slovenia","SVN","World","WLD",2017,31893789564
+"88","South Africa","ZAF","World","WLD",2017,88233218989
+"89","Spain","ESP","World","WLD",2017,311600619481
+"90","Sudan","SDN","World","WLD",2017,4240642666
+"91","Eswatini","SWZ","World","WLD",2017,1801000657
+"92","Sweden","SWE","World","WLD",2017,153158564964
+"93","Switzerland","CHE","World","WLD",2017,299331427818
+"94","Thailand","THA","World","WLD",2017,236634037692
+"95","Turkey","TUR","World","WLD",2017,164494619316
+"96","North Macedonia","MKD","World","WLD",2017,5682803081
+"97","United Kingdom","GBR","World","WLD",2017,441847324214
+"98","United Rep. of Tanzania","TZA","World","WLD",2017,4178109062
+"99","USA","USA","World","WLD",2017,1545809598154
+"100","Burkina Faso","BFA","World","WLD",2017,2909370118
+"101","Uruguay","URY","World","WLD",2017,7889387375
+"102","Zambia","ZMB","World","WLD",2017,8006789539
+"103","Albania","ALB","World","WLD",2018,2875859778
+"104","Andorra","AND","World","WLD",2018,129448151
+"105","Angola","AGO","World","WLD",2018,42096736310
+"106","Azerbaijan","AZE","World","WLD",2018,19489068203
+"107","Argentina","ARG","World","WLD",2018,61558357420
+"108","Australia","AUS","World","WLD",2018,252757844372
+"109","Austria","AUT","World","WLD",2018,176991970620
+"110","Bahrain","BHR","World","WLD",2018,14347737494
+"111","Armenia","ARM","World","WLD",2018,2383413799
+"112","Belgium","BEL","World","WLD",2018,323378438760
+"113","Bermuda","BMU","World","WLD",2018,22912424
+"114","Bolivia (Plurinational State of)","BOL","World","WLD",2018,9110355630
+"115","Bosnia Herzegovina","BIH","World","WLD",2018,7182096317
+"116","Botswana","BWA","World","WLD",2018,6122376817
+"117","Brazil","BRA","World","WLD",2018,231889523399
+"118","Belize","BLZ","World","WLD",2018,240911158
+"119","Brunei Darussalam","BRN","World","WLD",2018,6573636942
+"120","Bulgaria","BGR","World","WLD",2018,33787143989
+"121","Myanmar","MMR","World","WLD",2018,16694858193
+"122","Belarus","BLR","World","WLD",2018,33726141400
+"123","Cambodia","KHM","World","WLD",2018,12700279675
+"124","Canada","CAN","World","WLD",2018,450392396468
+"125","Chile","CHL","World","WLD",2018,75481713821
+"126","China","CHN","World","WLD",2018,2494230194966
+"127","Colombia","COL","World","WLD",2018,41831520220
+"128","Comoros","COM","World","WLD",2018,46214060
+"129","Congo","COG","World","WLD",2018,11155029324
+"130","Costa Rica","CRI","World","WLD",2018,11251781448
+"131","Croatia","HRV","World","WLD",2018,17210469290
+"132","Cyprus","CYP","World","WLD",2018,5064927294
+"133","Czechia","CZE","World","WLD",2018,202521577709
+"134","Denmark","DNK","World","WLD",2018,108521449414
+"135","Dominican Rep.","DOM","World","WLD",2018,10758011760
+"136","Ecuador","ECU","World","WLD",2018,21606133822
+"137","El Salvador","SLV","World","WLD",2018,5905411210
+"138","Estonia","EST","World","WLD",2018,17851477710
+"139","Fiji","FJI","World","WLD",2018,1006818442
+"140","Finland","FIN","World","WLD",2018,75258290459
+"141","France","FRA","World","WLD",2018,568535879844
+"142","Georgia","GEO","World","WLD",2018,3379725037
+"143","Germany","DEU","World","WLD",2018,1562418816337
+"144","Ghana","GHA","World","WLD",2018,17099588399
+"145","Greece","GRC","World","WLD",2018,39490521437
+"146","Greenland","GRL","World","WLD",2018,640897343
+"147","Guatemala","GTM","World","WLD",2018,10863483936
+"148","Honduras","HND","World","WLD",2018,4486630182
+"149","China, Hong Kong SAR","HKG","World","WLD",2018,569105739731
+"150","Hungary","HUN","World","WLD",2018,123957885048
+"151","Iceland","ISL","World","WLD",2018,5561475841
+"152","Indonesia","IDN","World","WLD",2018,180215034437
+"153","Iran","IRN","World","WLD",2018,96617521276
+"154","Ireland","IRL","World","WLD",2018,167017887791
+"155","Israel","ISR","World","WLD",2018,61906412000
+"156","Italy","ITA","World","WLD",2018,549906995682
+"157","Côte d'Ivoire","CIV","World","WLD",2018,11820908494
+"158","Jamaica","JAM","World","WLD",2018,1960739706
+"159","Japan","JPN","World","WLD",2018,738195054863
+"160","Kazakhstan","KAZ","World","WLD",2018,61109053214
+"161","Jordan","JOR","World","WLD",2018,7750262862
+"162","Rep. of Korea","KOR","World","WLD",2018,604807317420
+"163","Kuwait","KWT","World","WLD",2018,71941444555
+"164","Kyrgyzstan","KGZ","World","WLD",2018,1835179371
+"165","Lao People's Dem. Rep.","LAO","World","WLD",2018,5814806369
+"166","Lebanon","LBN","World","WLD",2018,2952759932
+"167","Latvia","LVA","World","WLD",2018,15064999864
+"168","Lithuania","LTU","World","WLD",2018,33334576736
+"169","Luxembourg","LUX","World","WLD",2018,15148367371
+"170","China, Macao SAR","MAC","World","WLD",2018,1161004083
+"171","Madagascar","MDG","World","WLD",2018,3133017751
+"172","Malaysia","MYS","World","WLD",2018,248711690011
+"173","Maldives","MDV","World","WLD",2018,181711401
+"174","Mali","MLI","World","WLD",2018,3633806900
+"175","Malta","MLT","World","WLD",2018,3868514079
+"176","Mauritius","MUS","World","WLD",2018,1987672862
+"177","Other Asia, nes",NA,"World","WLD",2018,335743566738
+"178","Mongolia","MNG","World","WLD",2018,7011757684
+"179","Montenegro","MNE","World","WLD",2018,465997357
+"180","Morocco","MAR","World","WLD",2018,29360137412
+"181","Mozambique","MOZ","World","WLD",2018,5195579533
+"182","Oman","OMN","World","WLD",2018,41760976158
+"183","Namibia","NAM","World","WLD",2018,7488296000
+"184","Netherlands","NLD","World","WLD",2018,587893084428
+"185","New Zealand","NZL","World","WLD",2018,39838898880
+"186","Nicaragua","NIC","World","WLD",2018,5013907569
+"187","Niger","NER","World","WLD",2018,1564627862
+"188","Norway","NOR","World","WLD",2018,123040316872
+"189","Palau","PLW","World","WLD",2018,8620908
+"190","Pakistan","PAK","World","WLD",2018,23630892979
+"191","Paraguay","PRY","World","WLD",2018,9042140680
+"192","Peru","PER","World","WLD",2018,48015148375
+"193","Poland","POL","World","WLD",2018,261815268525
+"194","Portugal","PRT","World","WLD",2018,74135905807
+"195","Romania","ROU","World","WLD",2018,80077606266
+"196","Russian Federation","RUS","World","WLD",2018,451494828173
+"197","Rwanda","RWA","World","WLD",2018,1004201169
+"198","Serbia","SRB","World","WLD",2018,19239126973
+"199","Seychelles","SYC","World","WLD",2018,846972441
+"200","India","IND","World","WLD",2018,322492099897
+"201","Singapore","SGP","World","WLD",2018,411743293747
+"202","Slovakia","SVK","World","WLD",2018,93403168103
+"203","Viet Nam","VNM","World","WLD",2018,243698698324
+"204","Slovenia","SVN","World","WLD",2018,36471278939
+"205","South Africa","ZAF","World","WLD",2018,93677434344
+"206","Zimbabwe","ZWE","World","WLD",2018,4037267069
+"207","Spain","ESP","World","WLD",2018,346064315051
+"208","Sudan","SDN","World","WLD",2018,3619251504
+"209","Eswatini","SWZ","World","WLD",2018,1842438001
+"210","Sweden","SWE","World","WLD",2018,165966633517
+"211","Switzerland","CHE","World","WLD",2018,310523862211
+"212","Thailand","THA","World","WLD",2018,252485154115
+"213","Togo","TGO","World","WLD",2018,1024037778
+"214","United Arab Emirates","ARE","World","WLD",2018,387964272061
+"215","Tunisia","TUN","World","WLD",2018,15521228910
+"216","Turkey","TUR","World","WLD",2018,177168756288
+"217","Uganda","UGA","World","WLD",2018,3087363576
+"218","North Macedonia","MKD","World","WLD",2018,6906336855
+"219","United Kingdom","GBR","World","WLD",2018,490840363553
+"220","United Rep. of Tanzania","TZA","World","WLD",2018,3669212438
+"221","USA","USA","World","WLD",2018,1665302936591
+"222","Burkina Faso","BFA","World","WLD",2018,3267574544
+"223","Uruguay","URY","World","WLD",2018,7498004935
+"224","Uzbekistan","UZB","World","WLD",2018,10919011727
+"225","Yemen","YEM","World","WLD",2018,15456132
+"226","Zambia","ZMB","World","WLD",2018,9043157369
+"227","Albania","ALB","World","WLD",2019,2719428708
+"228","Angola","AGO","World","WLD",2019,34819240571
+"229","Azerbaijan","AZE","World","WLD",2019,19635202600
+"230","Argentina","ARG","World","WLD",2019,65114127659
+"231","Australia","AUS","World","WLD",2019,266377225615
+"232","Austria","AUT","World","WLD",2019,171532054962
+"233","Bahrain","BHR","World","WLD",2019,14167263135
+"234","Armenia","ARM","World","WLD",2019,2620069449
+"235","Barbados","BRB","World","WLD",2019,444085369
+"236","Belgium","BEL","World","WLD",2019,311745573780
+"237","Bermuda","BMU","World","WLD",2019,26832552
+"238","Bolivia (Plurinational State of)","BOL","World","WLD",2019,8933330988
+"239","Bosnia Herzegovina","BIH","World","WLD",2019,6578243902
+"240","Botswana","BWA","World","WLD",2019,5238079155
+"241","Brazil","BRA","World","WLD",2019,221126807647
+"242","Belize","BLZ","World","WLD",2019,244908836
+"243","Brunei Darussalam","BRN","World","WLD",2019,7039083085
+"244","Bulgaria","BGR","World","WLD",2019,33454448049
+"245","Myanmar","MMR","World","WLD",2019,18105885851
+"246","Burundi","BDI","World","WLD",2019,180717200
+"247","Belarus","BLR","World","WLD",2019,32955122400
+"248","Cambodia","KHM","World","WLD",2019,14824722293
+"249","Canada","CAN","World","WLD",2019,445906664793
+"250","Cabo Verde","CPV","World","WLD",2019,61879312
+"251","Sri Lanka","LKA","World","WLD",2019,11974156365
+"252","Chile","CHL","World","WLD",2019,69681396828
+"253","China","CHN","World","WLD",2019,2499206993866
+"254","Colombia","COL","World","WLD",2019,39489359461
+"255","Comoros","COM","World","WLD",2019,49024220
+"256","Congo","COG","World","WLD",2019,5575942320
+"257","Costa Rica","CRI","World","WLD",2019,11451993076
+"258","Croatia","HRV","World","WLD",2019,17063049815
+"259","Cyprus","CYP","World","WLD",2019,3520898851
+"260","Czechia","CZE","World","WLD",2019,199469710335
+"261","Benin","BEN","World","WLD",2019,850663575
+"262","Denmark","DNK","World","WLD",2019,110230351400
+"263","Dominican Rep.","DOM","World","WLD",2019,11287199331
+"264","Ecuador","ECU","World","WLD",2019,22329378718
+"265","El Salvador","SLV","World","WLD",2019,5904956423
+"266","Ethiopia","ETH","World","WLD",2019,2683752373
+"267","Estonia","EST","World","WLD",2019,16807408470
+"268","Fiji","FJI","World","WLD",2019,965150137
+"269","Finland","FIN","World","WLD",2019,72839176013
+"270","France","FRA","World","WLD",2019,556364114008
+"271","French Polynesia","PYF","World","WLD",2019,142134445
+"272","Georgia","GEO","World","WLD",2019,3798330237
+"273","Germany","DEU","World","WLD",2019,1493266563850
+"274","Ghana","GHA","World","WLD",2019,16768275189
+"275","Greece","GRC","World","WLD",2019,37885526504
+"276","Guatemala","GTM","World","WLD",2019,11289176124
+"277","Guyana","GUY","World","WLD",2019,1565723059
+"278","Honduras","HND","World","WLD",2019,3091163099
+"279","China, Hong Kong SAR","HKG","World","WLD",2019,535711018905
+"280","Hungary","HUN","World","WLD",2019,122180657695
+"281","Iceland","ISL","World","WLD",2019,5228360516
+"282","Indonesia","IDN","World","WLD",2019,167682997529
+"283","Ireland","IRL","World","WLD",2019,170743382636
+"284","Israel","ISR","World","WLD",2019,58488466000
+"285","Italy","ITA","World","WLD",2019,537748428817
+"286","Côte d'Ivoire","CIV","World","WLD",2019,12717851545
+"287","Jamaica","JAM","World","WLD",2019,1651161084
+"288","Japan","JPN","World","WLD",2019,705671082765
+"289","Kazakhstan","KAZ","World","WLD",2019,57722940896
+"290","Jordan","JOR","World","WLD",2019,8312916561
+"291","Kenya","KEN","World","WLD",2019,5836255973
+"292","Rep. of Korea","KOR","World","WLD",2019,542171769089
+"293","Kuwait","KWT","World","WLD",2019,64482096620
+"294","Kyrgyzstan","KGZ","World","WLD",2019,1986109552
+"295","Lao People's Dem. Rep.","LAO","World","WLD",2019,5809346160
+"296","Lebanon","LBN","World","WLD",2019,3731340090
+"297","Latvia","LVA","World","WLD",2019,14447101696
+"298","Lithuania","LTU","World","WLD",2019,33150771896
+"299","Luxembourg","LUX","World","WLD",2019,14667446910
+"300","China, Macao SAR","MAC","World","WLD",2019,1023983031
+"301","Madagascar","MDG","World","WLD",2019,2688948366
+"302","Malawi","MWI","World","WLD",2019,912832375
+"303","Malaysia","MYS","World","WLD",2019,240211905652
+"304","Maldives","MDV","World","WLD",2019,158015478
+"305","Mali","MLI","World","WLD",2019,3643236512
+"306","Malta","MLT","World","WLD",2019,4142922134
+"307","Mauritius","MUS","World","WLD",2019,1876368427
+"308","Other Asia, nes",NA,"World","WLD",2019,329483858291
+"309","Mongolia","MNG","World","WLD",2019,7619753899
+"310","Montenegro","MNE","World","WLD",2019,463202279
+"311","Morocco","MAR","World","WLD",2019,29582399076
+"312","Mozambique","MOZ","World","WLD",2019,4722313201
+"313","Namibia","NAM","World","WLD",2019,6256147591
+"314","Nepal","NPL","World","WLD",2019,959628520
+"315","Netherlands","NLD","World","WLD",2019,576784455411
+"316","New Zealand","NZL","World","WLD",2019,39539825796
+"317","Nicaragua","NIC","World","WLD",2019,5272553121
+"318","Niger","NER","World","WLD",2019,855080224
+"319","Norway","NOR","World","WLD",2019,104029881468
+"320","Pakistan","PAK","World","WLD",2019,23748680252
+"321","Panama","PAN","World","WLD",2019,664699084
+"322","Paraguay","PRY","World","WLD",2019,7652035474
+"323","Peru","PER","World","WLD",2019,46131564759
+"324","Philippines","PHL","World","WLD",2019,70926674490
+"325","Poland","POL","World","WLD",2019,251864773270
+"326","Portugal","PRT","World","WLD",2019,67064074174
+"327","Romania","ROU","World","WLD",2019,77298748437
+"328","Russian Federation","RUS","World","WLD",2019,426720332660
+"329","Rwanda","RWA","World","WLD",2019,1161750594
+"330","Senegal","SEN","World","WLD",2019,4178514674
+"331","Serbia","SRB","World","WLD",2019,19633048518
+"332","Seychelles","SYC","World","WLD",2019,824038383
+"333","India","IND","World","WLD",2019,323250726424
+"334","Singapore","SGP","World","WLD",2019,390331757374
+"335","Slovakia","SVK","World","WLD",2019,89909085415
+"336","Viet Nam","VNM","World","WLD",2019,264610322649
+"337","Slovenia","SVN","World","WLD",2019,37574594379
+"338","South Africa","ZAF","World","WLD",2019,89395988333
+"339","Zimbabwe","ZWE","World","WLD",2019,4279383537
+"340","Spain","ESP","World","WLD",2019,337215113876
+"341","Eswatini","SWZ","World","WLD",2019,2001636601
+"342","Sweden","SWE","World","WLD",2019,160531242220
+"343","Switzerland","CHE","World","WLD",2019,313685932750
+"344","Thailand","THA","World","WLD",2019,233674439906
+"345","Togo","TGO","World","WLD",2019,1011137878
+"346","United Arab Emirates","ARE","World","WLD",2019,389427993903
+"347","Tunisia","TUN","World","WLD",2019,14944087490
+"348","Turkey","TUR","World","WLD",2019,180832721702
+"349","Uganda","UGA","World","WLD",2019,3563784978
+"350","North Macedonia","MKD","World","WLD",2019,7195140900
+"351","United Kingdom","GBR","World","WLD",2019,468322416147
+"352","United Rep. of Tanzania","TZA","World","WLD",2019,5003764881
+"353","USA","USA","World","WLD",2019,1644276220783
+"354","Burkina Faso","BFA","World","WLD",2019,3261104826
+"355","Uruguay","URY","World","WLD",2019,7680372439
+"356","Uzbekistan","UZB","World","WLD",2019,14929506690
+"357","Yemen","YEM","World","WLD",2019,23783553
+"358","Zambia","ZMB","World","WLD",2019,7029095024
+"359","Albania","ALB","World","WLD",2020,2514735562
+"360","Azerbaijan","AZE","World","WLD",2020,13732637263
+"361","Argentina","ARG","World","WLD",2020,54883822445
+"362","Australia","AUS","World","WLD",2020,245045964836
+"363","Austria","AUT","World","WLD",2020,162145129017
+"364","Armenia","ARM","World","WLD",2020,2512516741
+"365","Barbados","BRB","World","WLD",2020,345206217
+"366","Belgium","BEL","World","WLD",2020,296130587976
+"367","Bermuda","BMU","World","WLD",2020,19103500
+"368","Bolivia (Plurinational State of)","BOL","World","WLD",2020,7032764187
+"369","Bosnia Herzegovina","BIH","World","WLD",2020,6152512537
+"370","Botswana","BWA","World","WLD",2020,4255975840
+"371","Brazil","BRA","World","WLD",2020,209180241655
+"372","Belize","BLZ","World","WLD",2020,211872682
+"373","Brunei Darussalam","BRN","World","WLD",2020,6608177852
+"374","Bulgaria","BGR","World","WLD",2020,31914703883
+"375","Myanmar","MMR","World","WLD",2020,16929247366
+"376","Burundi","BDI","World","WLD",2020,161861534
+"377","Belarus","BLR","World","WLD",2020,29179441000
+"378","Cambodia","KHM","World","WLD",2020,17716469497
+"379","Canada","CAN","World","WLD",2020,388252303144
+"380","Cabo Verde","CPV","World","WLD",2020,53090793
+"381","Sri Lanka","LKA","World","WLD",2020,10706858044
+"382","Chile","CHL","World","WLD",2020,73479930615
+"383","China","CHN","World","WLD",2020,2590600666465
+"384","Colombia","COL","World","WLD",2020,31055810659
+"385","Comoros","COM","World","WLD",2020,19795036
+"386","Congo","COG","World","WLD",2020,4893092486
+"387","Costa Rica","CRI","World","WLD",2020,11622755153
+"388","Croatia","HRV","World","WLD",2020,16991280298
+"389","Cyprus","CYP","World","WLD",2020,3137095808
+"390","Czechia","CZE","World","WLD",2020,192307379805
+"391","Benin","BEN","World","WLD",2020,846059543
+"392","Denmark","DNK","World","WLD",2020,107223237230
+"393","Dominican Rep.","DOM","World","WLD",2020,9844751515
+"394","Ecuador","ECU","World","WLD",2020,20355361438
+"395","El Salvador","SLV","World","WLD",2020,5028313772
+"396","Ethiopia","ETH","World","WLD",2020,2533277228
+"397","Estonia","EST","World","WLD",2020,16882322860
+"398","Fiji","FJI","World","WLD",2020,826234806
+"399","Finland","FIN","World","WLD",2020,65606975840
+"400","France","FRA","World","WLD",2020,488562445788
+"401","French Polynesia","PYF","World","WLD",2020,80621360
+"402","Georgia","GEO","World","WLD",2020,3343442919
+"403","Germany","DEU","World","WLD",2020,1385852259832
+"404","Kiribati","KIR","World","WLD",2020,9271010
+"405","Greece","GRC","World","WLD",2020,35070461605
+"406","Guatemala","GTM","World","WLD",2020,11658469044
+"407","Guyana","GUY","World","WLD",2020,2813852540
+"408","China, Hong Kong SAR","HKG","World","WLD",2020,551515755924
+"409","Hungary","HUN","World","WLD",2020,119970720482
+"410","Iceland","ISL","World","WLD",2020,4580415490
+"411","Indonesia","IDN","World","WLD",2020,163306485250
+"412","Ireland","IRL","World","WLD",2020,184130805605
+"413","Israel","ISR","World","WLD",2020,50153246000
+"414","Italy","ITA","World","WLD",2020,495976960159
+"415","Jamaica","JAM","World","WLD",2020,1218398772
+"416","Japan","JPN","World","WLD",2020,641282568357
+"417","Kazakhstan","KAZ","World","WLD",2020,46949204302
+"418","Jordan","JOR","World","WLD",2020,7943244773
+"419","Kenya","KEN","World","WLD",2020,6023441806
+"420","Rep. of Korea","KOR","World","WLD",2020,512709856024
+"421","Kuwait","KWT","World","WLD",2020,40166147337
+"422","Kyrgyzstan","KGZ","World","WLD",2020,1863531157
+"423","Lao People's Dem. Rep.","LAO","World","WLD",2020,5086886923
+"424","Lebanon","LBN","World","WLD",2020,3807461182
+"425","Latvia","LVA","World","WLD",2020,15196527243
+"426","Lithuania","LTU","World","WLD",2020,32837539056
+"427","Luxembourg","LUX","World","WLD",2020,13506053445
+"428","China, Macao SAR","MAC","World","WLD",2020,1024581530
+"429","Madagascar","MDG","World","WLD",2020,1959950995
+"430","Malawi","MWI","World","WLD",2020,780745038
+"431","Malaysia","MYS","World","WLD",2020,234050267453
+"432","Malta","MLT","World","WLD",2020,2674923341
+"433","Mauritania","MRT","World","WLD",2020,2828804807
+"434","Mauritius","MUS","World","WLD",2020,1543610037
+"435","Other Asia, nes",NA,"World","WLD",2020,347194556373
+"436","Mongolia","MNG","World","WLD",2020,7576310834
+"437","Rep. of Moldova","MDA","World","WLD",2020,2467106513
+"438","Montenegro","MNE","World","WLD",2020,409845585
+"439","Morocco","MAR","World","WLD",2020,27702724584
+"440","Mozambique","MOZ","World","WLD",2020,3460032908
+"441","Namibia","NAM","World","WLD",2020,5600210898
+"442","Netherlands","NLD","World","WLD",2020,551352792281
+"443","New Zealand","NZL","World","WLD",2020,38877144400
+"444","Nicaragua","NIC","World","WLD",2020,5087337719
+"445","Niger","NER","World","WLD",2020,1245559026
+"446","Norway","NOR","World","WLD",2020,82665180906
+"447","Pakistan","PAK","World","WLD",2020,22237163374
+"448","Paraguay","PRY","World","WLD",2020,8517891386
+"449","Peru","PER","World","WLD",2020,38757234044
+"450","Philippines","PHL","World","WLD",2020,65214435072
+"451","Poland","POL","World","WLD",2020,254169031902
+"452","Portugal","PRT","World","WLD",2020,61491411389
+"453","Qatar","QAT","World","WLD",2020,51504158057
+"454","Romania","ROU","World","WLD",2020,71046398784
+"455","Russian Federation","RUS","World","WLD",2020,337103969588
+"456","Senegal","SEN","World","WLD",2020,3929360138
+"457","Serbia","SRB","World","WLD",2020,19500829540
+"458","Seychelles","SYC","World","WLD",2020,960861069
+"459","India","IND","World","WLD",2020,275488744927
+"460","Singapore","SGP","World","WLD",2020,373683730056
+"461","Slovakia","SVK","World","WLD",2020,86707796106
+"462","Viet Nam","VNM","World","WLD",2020,281441457236
+"463","Slovenia","SVN","World","WLD",2020,37471094173
+"464","South Africa","ZAF","World","WLD",2020,85226766450
+"465","Zimbabwe","ZWE","World","WLD",2020,4394837096
+"466","Spain","ESP","World","WLD",2020,312080513421
+"467","Eswatini","SWZ","World","WLD",2020,1752113941
+"468","Sweden","SWE","World","WLD",2020,154935587125
+"469","Switzerland","CHE","World","WLD",2020,318580420583
+"470","Thailand","THA","World","WLD",2020,231387919677
+"471","Togo","TGO","World","WLD",2020,973533833
+"472","United Arab Emirates","ARE","World","WLD",2020,335296907869
+"473","Turkey","TUR","World","WLD",2020,169657939777
+"474","Uganda","UGA","World","WLD",2020,4148958329
+"475","Ukraine","UKR","World","WLD",2020,49230799582
+"476","North Macedonia","MKD","World","WLD",2020,6633215704
+"477","United Kingdom","GBR","World","WLD",2020,395692086586
+"478","United Rep. of Tanzania","TZA","World","WLD",2020,6076410130
+"479","USA","USA","World","WLD",2020,1430253623489
+"480","Burkina Faso","BFA","World","WLD",2020,4374631844
+"481","Uruguay","URY","World","WLD",2020,6853089373
+"482","Uzbekistan","UZB","World","WLD",2020,13280562707
+"483","Zambia","ZMB","World","WLD",2020,7804715294
+"484","Azerbaijan","AZE","World","WLD",2021,22206671115
+"485","Australia","AUS","World","WLD",2021,342036103269
+"486","Armenia","ARM","World","WLD",2021,2971221865
+"487","Barbados","BRB","World","WLD",2021,350172911
+"488","Belgium","BEL","World","WLD",2021,336468392415
+"489","Bolivia (Plurinational State of)","BOL","World","WLD",2021,11079788840
+"490","Brazil","BRA","World","WLD",2021,280814577460
+"491","Belize","BLZ","World","WLD",2021,264092675
+"492","Belarus","BLR","World","WLD",2021,39889022800
+"493","Canada","CAN","World","WLD",2021,501150113921
+"494","Sri Lanka","LKA","World","WLD",2021,13331248583
+"495","Chile","CHL","World","WLD",2021,94705004289
+"496","China","CHN","World","WLD",2021,3362301613439
+"497","Croatia","HRV","World","WLD",2021,22674487403
+"498","Cyprus","CYP","World","WLD",2021,3886870798
+"499","Czechia","CZE","World","WLD",2021,227160991427
+"500","Benin","BEN","World","WLD",2021,1023522023
+"501","Denmark","DNK","World","WLD",2021,125200216279
+"502","Dominican Rep.","DOM","World","WLD",2021,11725013719
+"503","Ecuador","ECU","World","WLD",2021,26699199844
+"504","El Salvador","SLV","World","WLD",2021,6628751435
+"505","Estonia","EST","World","WLD",2021,22282692007
+"506","Fiji","FJI","World","WLD",2021,815335653
+"507","Finland","FIN","World","WLD",2021,81326553756
+"508","Georgia","GEO","World","WLD",2021,4242323760
+"509","Germany","DEU","World","WLD",2021,1630917502926
+"510","Greece","GRC","World","WLD",2021,46451612008
+"511","Guatemala","GTM","World","WLD",2021,13735599195
+"512","Guyana","GUY","World","WLD",2021,4257250461
+"513","China, Hong Kong SAR","HKG","World","WLD",2021,670926079457
+"514","Hungary","HUN","World","WLD",2021,141256735919
+"515","Iceland","ISL","World","WLD",2021,5973742650
+"516","Italy","ITA","World","WLD",2021,601662526918
+"517","Japan","JPN","World","WLD",2021,757066261248
+"518","Kenya","KEN","World","WLD",2021,6751366221
+"519","Kyrgyzstan","KGZ","World","WLD",2021,1688227965
+"520","Lebanon","LBN","World","WLD",2021,4229976738
+"521","Latvia","LVA","World","WLD",2021,19504867044
+"522","Lithuania","LTU","World","WLD",2021,40813701239
+"523","Luxembourg","LUX","World","WLD",2021,16247126542
+"524","China, Macao SAR","MAC","World","WLD",2021,1392424900
+"525","Malaysia","MYS","World","WLD",2021,299230434394
+"526","Maldives","MDV","World","WLD",2021,151293266
+"527","Mauritius","MUS","World","WLD",2021,1671760288
+"528","Mexico","MEX","World","WLD",2021,494595503435
+"529","Rep. of Moldova","MDA","World","WLD",2021,3144476429
+"530","Montenegro","MNE","World","WLD",2021,515916303
+"531","Netherlands","NLD","World","WLD",2021,691826642026
+"532","New Zealand","NZL","World","WLD",2021,44768946428
+"533","Nicaragua","NIC","World","WLD",2021,6494984866
+"534","Pakistan","PAK","World","WLD",2021,28795179085
+"535","Paraguay","PRY","World","WLD",2021,10547296491
+"536","Philippines","PHL","World","WLD",2021,74619528755
+"537","Poland","POL","World","WLD",2021,317832124942
+"538","Portugal","PRT","World","WLD",2021,75074827779
+"539","Romania","ROU","World","WLD",2021,88389728970
+"540","Senegal","SEN","World","WLD",2021,5202221589
+"541","Serbia","SRB","World","WLD",2021,25563527047
+"542","India","IND","World","WLD",2021,394813673347
+"543","Slovakia","SVK","World","WLD",2021,104360088467
+"544","Slovenia","SVN","World","WLD",2021,46773357359
+"545","Spain","ESP","World","WLD",2021,391558519476
+"546","Sweden","SWE","World","WLD",2021,189842156786
+"547","Switzerland","CHE","World","WLD",2021,379457205685
+"548","Turkey","TUR","World","WLD",2021,225221981583
+"549","Ukraine","UKR","World","WLD",2021,65870275510
+"550","United Kingdom","GBR","World","WLD",2021,467816454848
+"551","United Rep. of Tanzania","TZA","World","WLD",2021,6390862886
+"552","USA","USA","World","WLD",2021,1753136708106
+"553","Burkina Faso","BFA","World","WLD",2021,5060027958
+"554","Uzbekistan","UZB","World","WLD",2021,14092247992
+"555","Samoa","WSM","World","WLD",2021,28836585
+"556","Angola","AGO","World","WLD",2017,34904881109
+"557","Azerbaijan","AZE","World","WLD",2017,15306018304
+"558","Argentina","ARG","World","WLD",2017,58384194969
+"559","Bahamas","BHS","World","WLD",2017,473322277
+"560","Botswana","BWA","World","WLD",2017,5954788785
+"561","Belize","BLZ","World","WLD",2017,277584960
+"562","Solomon Isds","SLB","World","WLD",2017,499714683
+"563","Burundi","BDI","World","WLD",2017,149406437
+"564","Cameroon","CMR","World","WLD",2017,3264185171
+"565","Cabo Verde","CPV","World","WLD",2017,49935302
+"566","Central African Rep.","CAF","World","WLD",2017,196990937
+"567","Comoros","COM","World","WLD",2017,38411838
+"568","Congo","COG","World","WLD",2017,8251984388
+"569","Dem. Rep. of the Congo","COD","World","WLD",2017,12295708443
+"570","Benin","BEN","World","WLD",2017,741989094
+"571","Ethiopia","ETH","World","WLD",2017,2305900977
+"572","French Polynesia","PYF","World","WLD",2017,169175120
+"573","Gambia","GMB","World","WLD",2017,13807871
+"574","State of Palestine","PSE","World","WLD",2017,1064884138
+"575","Ghana","GHA","World","WLD",2017,14358509951
+"576","Kiribati","KIR","World","WLD",2017,15246555
+"577","Grenada","GRD","World","WLD",2017,30518152
+"578","Côte d'Ivoire","CIV","World","WLD",2017,12445558550
+"579","Jamaica","JAM","World","WLD",2017,1309718443
+"580","Kenya","KEN","World","WLD",2017,5747414819
+"581","Malawi","MWI","World","WLD",2017,883851985
+"582","Mali","MLI","World","WLD",2017,1902730073
+"583","Mauritania","MRT","World","WLD",2017,1989430771
+"584","Mexico","MEX","World","WLD",2017,409396272990
+"585","Rep. of Moldova","MDA","World","WLD",2017,2425118752
+"586","Mozambique","MOZ","World","WLD",2017,4718518271
+"587","Nepal","NPL","World","WLD",2017,740742914
+"588","Aruba","ABW","World","WLD",2017,89079346
+"589","Niger","NER","World","WLD",2017,1992358402
+"590","Nigeria","NGA","World","WLD",2017,44466366757
+"591","Palau","PLW","World","WLD",2017,6419759
+"592","Philippines","PHL","World","WLD",2017,68712611186
+"593","Qatar","QAT","World","WLD",2017,67498105851
+"594","Rwanda","RWA","World","WLD",2017,942651251
+"595","Saint Lucia","LCA","World","WLD",2017,141655244
+"596","Saudi Arabia","SAU","World","WLD",2017,221835062773
+"597","Senegal","SEN","World","WLD",2017,2989042090
+"598","Singapore","SGP","World","WLD",2017,373254554420
+"599","Viet Nam","VNM","World","WLD",2017,215118606999
+"600","Zimbabwe","ZWE","World","WLD",2017,3480381866
+"601","Tajikistan","TJK","World","WLD",2017,983825951
+"602","Togo","TGO","World","WLD",2017,867057011
+"603","United Arab Emirates","ARE","World","WLD",2017,313603114506
+"604","Tunisia","TUN","World","WLD",2017,14199816336
+"605","Uganda","UGA","World","WLD",2017,2901465679
+"606","Ukraine","UKR","World","WLD",2017,43428391056
+"607","Egypt","EGY","World","WLD",2017,26434038485
+"608","Uzbekistan","UZB","World","WLD",2017,10079471003
+"609","Samoa","WSM","World","WLD",2017,44401814
+"610","Afghanistan","AFG","World","WLD",2018,884504496
+"611","Bahamas","BHS","World","WLD",2018,524192922
+"612","Solomon Isds","SLB","World","WLD",2018,569112008
+"613","Burundi","BDI","World","WLD",2018,169071156
+"614","Cameroon","CMR","World","WLD",2018,3804792058
+"615","Cabo Verde","CPV","World","WLD",2018,75270566
+"616","Central African Rep.","CAF","World","WLD",2018,54264098
+"617","Dem. Rep. of the Congo","COD","World","WLD",2018,20004284687
+"618","Benin","BEN","World","WLD",2018,950955040
+"619","Ethiopia","ETH","World","WLD",2018,1548554591
+"620","French Polynesia","PYF","World","WLD",2018,155313198
+"621","Gambia","GMB","World","WLD",2018,11428464
+"622","State of Palestine","PSE","World","WLD",2018,1155634049
+"623","Kiribati","KIR","World","WLD",2018,8186253
+"624","Grenada","GRD","World","WLD",2018,37746085
+"625","Kenya","KEN","World","WLD",2018,6050420682
+"626","Lesotho","LSO","World","WLD",2018,706099639
+"627","Malawi","MWI","World","WLD",2018,879974472
+"628","Mauritania","MRT","World","WLD",2018,2051854542
+"629","Mexico","MEX","World","WLD",2018,450683646625
+"630","Rep. of Moldova","MDA","World","WLD",2018,2706818216
+"631","Nepal","NPL","World","WLD",2018,781142756
+"632","Aruba","ABW","World","WLD",2018,69762736
+"633","Nigeria","NGA","World","WLD",2018,62399742736
+"634","Philippines","PHL","World","WLD",2018,67487668298
+"635","Qatar","QAT","World","WLD",2018,84904616757
+"636","Saint Lucia","LCA","World","WLD",2018,116813983
+"637","Saudi Arabia","SAU","World","WLD",2018,294535553148
+"638","Senegal","SEN","World","WLD",2018,3623242949
+"639","Sierra Leone","SLE","World","WLD",2018,205368284
+"640","Tajikistan","TJK","World","WLD",2018,1073858043
+"641","Ukraine","UKR","World","WLD",2018,47334679853
+"642","Egypt","EGY","World","WLD",2018,29483042042
+"643","Samoa","WSM","World","WLD",2018,46101305
+"644","Afghanistan","AFG","World","WLD",2019,870488512
+"645","Dem. Rep. of the Congo","COD","World","WLD",2019,13382299169
+"646","Gambia","GMB","World","WLD",2019,24602270
+"647","State of Palestine","PSE","World","WLD",2019,1103808331
+"648","Grenada","GRD","World","WLD",2019,34481186
+"649","Lesotho","LSO","World","WLD",2019,646049194
+"650","Mauritania","MRT","World","WLD",2019,2266469717
+"651","Mexico","MEX","World","WLD",2019,460603695808
+"652","Rep. of Moldova","MDA","World","WLD",2019,2779164783
+"653","Aruba","ABW","World","WLD",2019,83627050
+"654","Nigeria","NGA","World","WLD",2019,53617812190
+"655","Qatar","QAT","World","WLD",2019,72934956293
+"656","Saint Lucia","LCA","World","WLD",2019,97255260
+"657","Saudi Arabia","SAU","World","WLD",2019,251800016999
+"658","Tajikistan","TJK","World","WLD",2019,891973123
+"659","Ukraine","UKR","World","WLD",2019,50054402431
+"660","Egypt","EGY","World","WLD",2019,30632552899
+"661","Samoa","WSM","World","WLD",2019,49272482
+"662","Dem. Rep. of the Congo","COD","World","WLD",2020,14122146726
+"663","Gambia","GMB","World","WLD",2020,25860014
+"664","State of Palestine","PSE","World","WLD",2020,1054620844
+"665","Grenada","GRD","World","WLD",2020,24620482
+"666","Lesotho","LSO","World","WLD",2020,832777085
+"667","Mexico","MEX","World","WLD",2020,416982170486
+"668","Aruba","ABW","World","WLD",2020,65930897
+"669","Nigeria","NGA","World","WLD",2020,34900471091
+"670","Saudi Arabia","SAU","World","WLD",2020,185699411835
+"671","Tajikistan","TJK","World","WLD",2020,717905650
+"672","Egypt","EGY","World","WLD",2020,26815144689
+"673","Grenada","GRD","World","WLD",2021,35163394
+"674","Aruba","ABW","World","WLD",2021,88347007
+"675","Egypt","EGY","World","WLD",2021,40701703944
+"676","Antigua and Barbuda","ATG","World","WLD",2017,62390602
+"677","Guyana","GUY","World","WLD",2017,1789689907
+"678","Saint Kitts and Nevis","KNA","World","WLD",2017,33245644
+"679","Saint Vincent and the Grenadines","VCT","World","WLD",2017,42299408
+"680","Sao Tome and Principe","STP","World","WLD",2017,10562590
+"681","Seychelles","SYC","World","WLD",2017,591585318
+"682","Sierra Leone","SLE","World","WLD",2017,102651588
+"683","Suriname","SUR","World","WLD",2017,1441019455
+"684","Antigua and Barbuda","ATG","World","WLD",2018,25841081
+"685","Guyana","GUY","World","WLD",2018,1379502041
+"686","Saint Vincent and the Grenadines","VCT","World","WLD",2018,43665885
+"687","Sao Tome and Principe","STP","World","WLD",2018,12087302
+"688","Suriname","SUR","World","WLD",2018,1502817149
+"689","Antigua and Barbuda","ATG","World","WLD",2019,37400118
+"690","Saint Vincent and the Grenadines","VCT","World","WLD",2019,38157024
+"691","Sao Tome and Principe","STP","World","WLD",2019,9858888
+"692","Suriname","SUR","World","WLD",2019,1460965557
+"693","Sao Tome and Principe","STP","World","WLD",2020,12439557
+"694","Suriname","SUR","World","WLD",2020,2193348936
+"695","Saint Vincent and the Grenadines","VCT","World","WLD",2021,34719205
+"696","Sao Tome and Principe","STP","World","WLD",2021,19174845
+"697","Afghanistan","AFG","World","WLD",2017,831926771
+"698","Barbados","BRB","World","WLD",2017,485387947
+"699","Libya","LBY","World","WLD",2017,20135528255
+"700","Timor-Leste","TLS","World","WLD",2017,24174262
+"701","Barbados","BRB","World","WLD",2018,457709750
+"702","Libya","LBY","World","WLD",2018,30040892184
