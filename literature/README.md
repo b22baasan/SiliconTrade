@@ -1,0 +1,1 @@
+Source: https://wrlc-gm.primo.exlibrisgroup.com/discovery/search?query=any,contains,Revealed%20comparative%20advantage%20revisited:%20An%20analysis%20of%20relative%20export%20shares%20of%20the%20industrial%20countries,%201953%E2%80%931971&tab=Everything&search_scope=MyInst_and_CI&vid=01WRLC_GML:01WRLC_GML&lang=en&offset=0
