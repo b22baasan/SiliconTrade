@@ -39,4 +39,7 @@ income_lvls <- world %>%
 
 final.97 %>% 
         left_join(income_lvls, by = 'CountryCode') %>% 
-        print(n=Inf)
+        mutate(wafer_share = wafer_val / ttl_goods97_value) %>% 
+        #summary()
+        top_n(wafer_qty)
+ 
